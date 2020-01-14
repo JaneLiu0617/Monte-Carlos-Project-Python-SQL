@@ -1,0 +1,9 @@
+            XYZ is served in 10,000 restaurants today: 
+•	Every month 200-1000 new restaurants start serving food but 0.5-1% of existing restaurants stop serving
+•	Each restaurant buys an average of 50 lbs of food per week and this average increases randomly by 0% to 2.5%each week
+•	Every week the plant can produce a random amount of burger between 1 million and 1.5 million lbs
+•	The factory freezer can store up to 3 million lbs of burger indefinitely and currently has 1 million lbs stored: 
+•	The second production line would double production capacity
+•	How will our sales grow over the next 6 months in the 10th, 50th, and 90th percentile cases?
+•	When do we need to complete construction on the second line in order to be 90% sure that we will not have a shortage in the next 18 months? 99% sure?
+•	What key facts & assumptions should the CEO know about your model? 
